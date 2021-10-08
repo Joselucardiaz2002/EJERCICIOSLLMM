@@ -18,4 +18,4 @@
 
 [Ejercicio4-tema2](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/ejercicio_4)
 
-[Ejercicio4-tema2](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio_5)
+[Ejercicio5-tema2](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio_5)
