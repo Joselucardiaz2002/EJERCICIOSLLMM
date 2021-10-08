@@ -15,3 +15,5 @@
 [Ejercicio2-tema2](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio_2_tema_2)
 
 [Ejercicio3-tema2](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio_3_tema_2)
+
+[Ejercicio4-tema2](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio_4)
