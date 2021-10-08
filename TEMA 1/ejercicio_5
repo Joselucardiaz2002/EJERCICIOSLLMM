@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EJERCICIO 5</title>
+</head>
+<body>
+  <h1>DERECHA</h1>
+  <div align="left">
+    <p>Texto alineado a la izquierda.</p>
+ </div>
+ <h2>JUSTIFICADO</h2>
+ <div align="justify">
+  <p>Texto justificado</p>
+</div>
+<h2>CENTRO</h2>
+ <div align="center">
+    <p>Texto alineado al centro.</p>
+ </div>
+ <h2>DERECHA</h2>
+ <div align="right">
+    <p>Texto alineado a la derecha.</p>
+ </div> 
+</body>
+</html>
