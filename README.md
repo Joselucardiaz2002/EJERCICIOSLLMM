@@ -31,3 +31,5 @@
 [menu-complejo](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/menu-completo)
 
 [ejercicio12](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio12)
+
+[ejercicio13](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio13)
