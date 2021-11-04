@@ -33,3 +33,5 @@
 [ejercicio12](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio12)
 
 [ejercicio13](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio13)
+
+[ejercicio14](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio14)
