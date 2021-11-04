@@ -29,3 +29,5 @@
 [menu-simple](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/menu)
 
 [menu-complejo](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/menu-completo)
+
+[ejercicio12](https://github.com/Joselucardiaz2002/EJERCICIOSLLMM/blob/main/TEMA%201/ejercicio12)
